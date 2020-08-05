@@ -1,1 +1,2 @@
 Hello World from file 2
+New lines added by dev Shumyla
